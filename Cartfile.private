@@ -1,2 +1,4 @@
 github "Quick/Quick"
-github "Quick/Nimble"
+github "Quick/Nimble" "a14526900f79402de46779ba4e6929112b6a34d5"
+
+
